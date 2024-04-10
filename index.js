@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["#1 Dupe Bot","#1 Dupe Bot"];
+const statusMessages = ["",""];
 
 
 let currentIndex = 0;
